@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/gestor_tareas.dir/link.d CMakeFiles/gestor_tareas.dir/src/enums.cpp.o CMakeFiles/gestor_tareas.dir/src/gestor_tareas.cpp.o CMakeFiles/gestor_tareas.dir/src/main.cpp.o CMakeFiles/gestor_tareas.dir/src/tarea.cpp.o CMakeFiles/gestor_tareas.dir/src/utils.cpp.o -o gestor_tareas
