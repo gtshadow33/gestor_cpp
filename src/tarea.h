@@ -6,7 +6,7 @@
 #include "enums.h"
 
 // ─── Estructura Tarea ────────────────────────────────────
-struct Tarea {
+struct Tarea { 
     int         id;
     std::string titulo;
     std::string descripcion;
