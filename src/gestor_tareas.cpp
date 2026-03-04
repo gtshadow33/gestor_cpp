@@ -15,7 +15,7 @@ GestorTareas::GestorTareas() {
 }
 
 // ────────────────────────────────────────────────────────
-//  Helpers privados de presentación
+//  Helpers privados de presentación (otra parte del codigo no lo necesita)
 // ────────────────────────────────────────────────────────
 void GestorTareas::separador(int tipo, int n) const {
     std::cout << CYAN;
