@@ -1,0 +1,3 @@
+/home/gts/porogramacion/cpp/gestor/build-windows/CMakeFiles/gestor_tareas.dir
+/home/gts/porogramacion/cpp/gestor/build-windows/CMakeFiles/edit_cache.dir
+/home/gts/porogramacion/cpp/gestor/build-windows/CMakeFiles/rebuild_cache.dir
